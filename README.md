@@ -2,8 +2,9 @@
 Bluetooth radar that scans the surroundings to detect devices and their position.
 
 <img src="https://github.com/user-attachments/assets/e3762cd3-698f-4806-8976-c5ba46856591" width="167">
-<img src="https://github.com/user-attachments/assets/c14a9cea-3a30-4597-a6e0-bda789cc230b" width="167">
-https://github.com/user-attachments/assets/97e50a52-4380-425a-9e66-a83c28afe478
+<a href="https://github.com/user-attachments/assets/97e50a52-4380-425a-9e66-a83c28afe478">
+  <img src="https://github.com/user-attachments/assets/c14a9cea-3a30-4597-a6e0-bda789cc230b" width="167">
+</a>
 
 ## Overview
 
