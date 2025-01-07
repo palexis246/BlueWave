@@ -1,0 +1,131 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.swp
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Android Studio
+*.iml
+.gradle
+local.properties
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/encodings.xml
+.idea/.name
+.idea/compiler.xml
+captures
+.externalNativeBuild
+build
+.cxx
+*.apk
+*.ap_
+*.dex
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+web-build/
+dist/
+
+# Temporary files
+*.bak
+*.tmp
+*.orig
+*.log
+
+# Package Manager
+*.npm
+package-lock.json
+yarn.lock
+*.pnpm-lock.yaml
+
+# IDEs and editors
+/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/*
+!.idea/modules.xml
+__pycache__/
+*.pyc
+*.sublime-project
+*.sublime-workspace
+
+# Sensitive information
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# React Native specific
+*.jsc
+*.log
+*.orig
+
+# Testing
+coverage/
+
+# Miscellaneous
+.htpasswd
+.htaccess
+*.sqlite3
+*.db
+*.pid
+*.seed
+*.pid.lock
+
+# React Native Debugger
+.reactivedebugger*
+
+# Java/Kotlin related
+*.diff
+
+# Emulator
+emulator-user.ini
+emulator-user.ini.lock
+
+# Yalc
+.yalc/
+yalc.lock
+
+# Visual Studio Code
+.history/
+.ionide/
+
+# Watchman
+.watchmanconfig
