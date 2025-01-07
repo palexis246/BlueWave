@@ -1,8 +1,8 @@
 # BlueWave: A Bluetooth LE Radar App
 Bluetooth radar that scans the surroundings to detect devices and their position.
 
-<img src="https://github.com/user-attachments/assets/e3762cd3-698f-4806-8976-c5ba46856591" width="67">
-<img src="https://github.com/user-attachments/assets/c14a9cea-3a30-4597-a6e0-bda789cc230b" width="67">
+<img src="https://github.com/user-attachments/assets/e3762cd3-698f-4806-8976-c5ba46856591" width="104">
+<img src="https://github.com/user-attachments/assets/c14a9cea-3a30-4597-a6e0-bda789cc230b" width="104">
 
 ## Overview
 
