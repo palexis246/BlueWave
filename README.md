@@ -1,6 +1,9 @@
 # BlueWave: A Bluetooth LE Radar App
 Bluetooth radar that scans the surroundings to detect devices and their position.
 
+![BlueWaveSample2](https://github.com/user-attachments/assets/e3762cd3-698f-4806-8976-c5ba46856591)
+![BlueWaveSample1](https://github.com/user-attachments/assets/c14a9cea-3a30-4597-a6e0-bda789cc230b)
+
 ## Overview
 
 BlueWave is a React Native application built with Expo that visualizes nearby Bluetooth Low Energy (BLE) devices on a radar-like interface. It uses the device's gyroscope to dynamically adjust the position of the device icons on the radar, creating an intuitive and interactive experience.
